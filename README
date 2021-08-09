@@ -1,0 +1,8 @@
+How to use:
+
+./Moumounator_printf.sh <../path_to_your_printf> (cspduixX%) (012)
+			(sdiuxXp%) =	List of Type you want to test
+							All tested if any specified
+			(0,1,2) =	0 display failed tests only (If any specified)
+						1 display failed and succeed tests
+						2 display failed and succeed with more details
